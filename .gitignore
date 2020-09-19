@@ -1,5 +1,10 @@
 _autosave*
 *bak
 *cache.lib
+*csv
 fp-*
 sym-lib-table
+*zip
+
+plots/*
+
