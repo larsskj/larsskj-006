@@ -9,7 +9,7 @@ The shield is powered by a 7805 regulator and should be connected to a DC power 
 
 For more information, visit the [project homepage](https://larsskj.org/projects/larsskj-006).
 
-![3D image](larsskj-005.3d.png)
+![3D image](larsskj-006.3d.png)
 
 The files provided are project files for [KiCad 5](http://kicad-pcb.org/).
 
